@@ -18,15 +18,15 @@ texture:
   title: Webb Hua Walker's Homepage
   tagline: 
   date_format: "%b %-d, %Y"
-  style: black
+  style: blue
   showNav: true
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: Webb_Hua_Walker
+    github:  Webb-Hua-Walker
+    linkedIn: 
     rss: rss
  
 
