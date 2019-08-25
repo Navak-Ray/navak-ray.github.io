@@ -12,8 +12,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Webb Hua Walker
-  tagline: 
+  title: Navak Ray
+  tagline: gxmsb
   date_format: "%b %-d, %Y"
   style: blue
   showNav: true
