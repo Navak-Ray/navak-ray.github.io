@@ -21,8 +21,8 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: Webb_Hua_Walker
-    github:  Webb-Hua-Walker
+    twitter:
+    github:
     linkedIn: 
     rss: rss
  
