@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name=”viewport“ content=”width=device-width, initial-scale=1, user-scalable=no“ />
+
+<meta charset="utf-8">
+<title>gxmsb</title>
+</head>
+<body>
+
+标准网页：
+<div id="container" style="width:auto">
+ 
+<div id="header" style="background-color:#FFA500;">
+<h1 style="margin-bottom:0;">主要的网页标题</h1></div>
+ 
+<div id="menu" style="background-color:#FFA500;height:auto;width:auto;float:left;">
+<b>菜单</b><br>
+HTML<br>
+CSS<br>
+JavaScript</div>
+ 
+<div id="content" style="background-color:#FFA500;height:auto;width:auto;float:left;">
+内容在这里</div>
+ 
+<div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
+版权  runoob.com</div>
+ 
+</div>
+</body>
+</html>
